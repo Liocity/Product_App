@@ -24,5 +24,5 @@ public class product {
 	@Positive(message="Quantity Should be Positive Number")
 	@NotNull(message="Product Qty Is Mandatory")
 	private Integer qty;
-
+private string lio;
 }
